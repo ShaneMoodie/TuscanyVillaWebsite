@@ -1,0 +1,169 @@
+﻿body {
+}
+
+/*NavBar*/
+.navbar-nav{
+    float: right;
+}
+nav#navvy.navbar.navbar-static-top{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color:#9ca1a8;
+    background-color:#8a8c91; /*NavBar color*/
+}
+#navvy a{
+    color:#edeff2;  /*NavBar letter color*/
+}
+#navvy a:hover{
+    background:none;
+}
+
+/*BUTTON*/
+button.navbar-toggle{
+    border: 1px solid #FFF6F0;
+}
+span.Icon-bar{
+    border:1px solid #FFF6F0;
+}
+
+/*Header*/
+.mainHead {
+    color:#edeff2;
+    text-align: center;
+    background-image: url('VillaResources/MansionPoolThing.jpg');
+    background-size: cover;
+    min-height: 348px;
+    margin-top:0px;
+    margin-bottom:0px;
+    margin-left:0;
+    margin-right:0px;
+}
+#bigPic{
+    margin:0px;
+    padding:0px;
+}
+#littlePic{
+    margin:0px;
+    padding:0px;
+}
+/*Section Division Bars*/
+.sectionBars{
+    text-align: center;
+    color:#edeff2;
+    background-color:#8a8c91;
+    padding-top:25px;
+    padding-bottom:25px;
+    margin: 0px;
+}
+/*Villa Preview Section*/
+#locationsPreview{
+    padding:50px;
+    padding-left:125px;
+}
+#locationsPreview2{
+    padding:50px;
+    padding-right:125px;
+    color:#edeff2;
+    background-color:#8a8c91;
+}
+#previewTextSection{
+    text-align:left;
+}
+#previewButtons{
+    color:#edeff2;
+    background-color:#8a8c91;
+}
+#previewButtons2{
+    color:#8a8c91;
+    background-color:#edeff2;   
+}
+/*Ammenities Section*/
+#ammenitiesSection1{
+    padding-top:50px;
+    padding-left:50px;
+    padding-right:50px;
+}
+#ammenitiesSection3{
+    padding-bottom:50px;
+    padding-left:50px;
+    padding-right:50px;
+}
+#ammenitiesPicPart1 {
+    text-align: center;
+    padding-top: 175px;
+    background-image: url('VillaResources/Pool.jpg');
+    color: #edeff2;
+    background-size: cover;
+    min-height: 350px;
+}
+#ammenitiesPicPart2 {
+    text-align: center;
+    padding-top: 175px;
+    background-image: url('VillaResources/DayPool.jpg');
+    color: #edeff2;
+    background-size: cover;
+    min-height: 350px;
+}
+#ammenitiesPicPart3 {
+    text-align: center;
+    padding-top: 175px;
+    background-image: url('VillaResources/Bed.jpg');
+    color: #edeff2;
+    background-size: cover;
+    min-height: 350px;
+}
+#ammenitiesPicPart4 {
+    text-align: center;
+    padding-top: 175px;
+    background-image: url('VillaResources/PatioThing.jpg');
+    color: #edeff2;
+    background-size: cover;
+    min-height: 350px;
+}
+#ammenitiesPicPart5 {
+    text-align: center;
+    padding-top: 175px;
+    background-image: url('VillaResources/OtherPatioThing.jpg');
+    color: #edeff2;
+    background-size: cover;
+    min-height: 350px;
+}
+#ammenitiesText{
+    text-align:center;
+}
+#ammenitiesText2{
+    text-align:center;
+    padding-left:50px;
+    padding-right:50px;
+}
+/*Carousel*/
+#myCarousel{
+    height:250px;
+    margin:0px;
+    padding:0px;
+}
+.carousel-inner{
+    padding-top:125px;
+    text-align:center;
+}
+#reviews{
+    font-style:italic;
+}
+.contactInfo{
+    text-align:left;
+    padding-top:50px;
+    padding-right:50px;
+    padding-left:50px;
+}
+.contactInfoInput{
+    float:right;
+}
+/*Footer*/
+.footer{
+    text-align:center;
+    color:#edeff2;
+    background-color:#8a8c91;
+    padding-top:50px;
+    padding-bottom:50px;
+    margin:0px;
+}
